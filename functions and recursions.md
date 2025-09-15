@@ -1,5 +1,7 @@
 #### FUNCTIONS AND RECURSIONS ####
-****functions****
+
+****Functions****
+Eg:program
 ***code***
 #include <stdio.h>
 #include <math.h>
@@ -34,4 +36,4 @@ the area is 3.140000
 
 
 
-****recursions****
+****Recursions****
