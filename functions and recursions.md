@@ -1,7 +1,7 @@
 #### FUNCTIONS AND RECURSIONS ####
 
 ****Functions****
-Eg:program
+Eg Program:
 ***code***
 #include <stdio.h>
 #include <math.h>
@@ -37,3 +37,34 @@ the area is 3.140000
 
 
 ****Recursions****
+Eg Program:
+**code**
+#include <stdio.h>
+
+int factorial();
+int main(){int n,f;
+    printf("enter the no \n");
+    scanf("%d",&n);
+    f= factorial(n);
+    printf(" the factorial is %d\n",f);
+    return 0;
+}
+
+int factorial(int n){ 
+    if(n==1 || n==0 )
+    { 
+    return 1;}
+    else
+    return n*factorial(n-1);
+}
+
+**output**
+enter the no 
+5
+ the factorial is 120
+
+
+
+
+
+
