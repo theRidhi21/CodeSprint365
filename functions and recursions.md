@@ -1,8 +1,8 @@
 #### FUNCTIONS AND RECURSIONS ####
 
 ****Functions****
-Eg Program:
-***code***
+*Eg Program:*
+**code**
 #include <stdio.h>
 #include <math.h>
 #define pi 3.14
@@ -27,7 +27,7 @@ float circlearea(float r){
     return pi*r*r;
 }
 
-***output***
+**output**
 enter no and the radius
 2 1
 the power is 4.000000
@@ -37,7 +37,7 @@ the area is 3.140000
 
 
 ****Recursions****
-Eg Program:
+*Eg Program:*
 **code**
 #include <stdio.h>
 
