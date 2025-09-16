@@ -1,6 +1,7 @@
 #### FUNCTIONS AND RECURSIONS ####
 
 ****Functions****
+Calling a *function* is like calling a couple of statements whose executions are to be done at once.
 *Eg Program:*
 ***code***
 #include <stdio.h>
@@ -37,6 +38,7 @@ the area is 3.140000
 
 
 ****Recursions****
+A *function* calling itself multiple times is called a *recursion*.
 *Eg Program:*
 ***code***
 #include <stdio.h>
