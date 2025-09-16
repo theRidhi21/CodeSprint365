@@ -18,7 +18,7 @@ Short form of *pointers* is "ptr".
 >thte datatype of *pointers* depends on the variable whose memory is being stored.
 
 
-# To print the value of *ptr the function used is "%p".
+### To print the value of *ptr the function used is "%p".
 ## To print the above value in readable form "%u" is used.
 
 
