@@ -1,4 +1,4 @@
-#### POINTERS ##:
+#### POINTERS #:
 
 *pointers* is a variable which stores the memory address of another variable.
 Short form of *pointers* is "ptr".
