@@ -19,7 +19,7 @@ Short form of *pointers* is "ptr".
 
 
 ### To print the value of *ptr the function used is "%p".
-#### To print the above value in readable form "%u" is used.
+### To print the above value in readable form "%u" is used.
 
 
 int age=22;
