@@ -3,7 +3,7 @@
 ****Functions****
 Calling a *function* is like calling a couple of statements whose executions are to be done at once.
 *Eg Program:*
-***code***
+***code***:
 #include <stdio.h>
 #include <math.h>
 #define pi 3.14
@@ -28,7 +28,7 @@ float circlearea(float r){
     return pi*r*r;
 }
 
-***output***
+***output***:
 enter no and the radius
 2 1
 the power is 4.000000
@@ -40,7 +40,7 @@ the area is 3.140000
 ****Recursions****
 A *function* calling itself multiple times is called a *recursion*.
 *Eg Program:*
-***code***
+***code***:
 #include <stdio.h>
 
 int factorial();
@@ -60,13 +60,7 @@ int factorial(int n){
     return n*factorial(n-1);
 }
 
-***output***
+***output***:
 enter the no 
 5
  the factorial is 120
-
-
-
-
-
-
