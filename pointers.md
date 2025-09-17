@@ -32,3 +32,11 @@ these above statements give same output i.e. 22
 
 ## Pointer to Pointer:
 It stores the memory address of another *pointer*.
+
+**Syntax**
+> int **pptr;
+> char **pptr;
+> float **pptr;
+
+
+## Pointers in Function Calling:
