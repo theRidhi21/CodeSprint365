@@ -35,4 +35,59 @@ It stores the memory address of another *pointer*.
 1. Call By Value
 2. Call By Reference
 
+### Call by value:
+We pass the value of variable as the argument.
+Changes  made to the variables of the sub method doesnot reflect on those of the main method.
+*Eg:* **code**
+#include <stdio.h>
 
+int square(int n);
+int main() { int n;
+    printf("enter the number\n");
+    scanf("%d",&n);
+   square(n);
+   printf("the no is %d\n",n);
+    return 0;
+}
+
+int square(int n)
+{
+   n=n*n;
+   printf("the sq is %d\n",n);
+}
+
+**output**
+enter the number
+5
+the sq is 25
+the no is 5
+#### the value of variable is not changed!!!!
+
+
+### Call by reference:
+We pass the address of the variable as the argument.
+The changes made on the variables is reflected on the variables of the main method.
+*Eg:***code**
+#include <stdio.h>
+
+int square(int* n);
+int main() { int n;
+    printf("enter the number\n");
+    scanf("%d",&n);
+   square(&n);
+   printf("the no is %d\n",n);
+    return 0;
+}
+
+int square(int* n)
+{
+   *n=(*n)*(*n);
+   printf("the sq is %d\n",*n);
+}
+
+**output**
+enter the number
+5
+the sq is 25
+the no is 25
+#### the value of variable is changed!!!!
