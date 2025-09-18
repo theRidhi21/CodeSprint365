@@ -1,4 +1,4 @@
-#### FUNCTIONS AND RECURSIONS ####
+# FUNCTIONS AND RECURSIONS 
 
 ****Functions****
 Calling a *function* is like calling a couple of statements whose executions are to be done at once.
@@ -28,7 +28,7 @@ float circlearea(float r){
     return pi*r*r;
 }
 
-***output***:
+***output**:
 enter no and the radius
 2 1
 the power is 4.000000
@@ -60,7 +60,7 @@ int factorial(int n){
     return n*factorial(n-1);
 }
 
-***output***:
+***output**:
 enter the no 
 5
  the factorial is 120
