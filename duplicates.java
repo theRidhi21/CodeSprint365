@@ -5,7 +5,7 @@ class Solution {
         {
             for(int j=i+1;j<l;j++)
             {
-                if (nums[i] == nums[j])
+                if (nums[i] ==  nums[j])
                 return true;
             }
         }
