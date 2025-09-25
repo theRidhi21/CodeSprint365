@@ -1,3 +1,3 @@
  # CodeSprint365
 This is a repository wherein I put up all the coding questions which I have solved, few of the self made notes and when I complete them acting as a proof for my sheer commitment and focus.
-This repository also contains few of
+
