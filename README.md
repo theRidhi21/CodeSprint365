@@ -6,3 +6,9 @@ All the programs here are executable.
 There are no syntax or logical errors!
 
 All the contents of this repository are part of my learning journey.
+tudjydfuyfvifu,td
+yfkuygf.,ujtfkuyfui
+kjhgjyigiydkfyfv
+hvcdfsGrzedxfytu6u67tgoftrs7iuou6y6rf
+vftuy7tgutdk7ifiyfvujgbilufytski7f
+
