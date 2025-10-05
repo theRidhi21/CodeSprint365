@@ -9,5 +9,3 @@ All the contents of this repository are part of my learning journey.
 tudjydfuyfvifu,td
 yfkuygf.,ujtfkuyfui
 kjhgjyigiydkfyfv
-vftuy7tgutdk7ifiyfvujgbilufytski7f
-
