@@ -6,4 +6,9 @@ int main() {
       int c=a&b;
       printf("%d",c);
     return 0;
-}
+} djuhfviohfguygfu
+ugefiywegifygue
+ufgir7g uhriufhgvub
+ krhbgj ,k jub vkjbihn dvgihkfvb vkudgvkrjbgkuydrvge
+gvbkjn gjugdb vhjoijn hvgr487fiwij;fqhldcp0ufuq
+ bku fjbe mjsfgif mhkiuhflke
