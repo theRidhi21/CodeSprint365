@@ -10,5 +10,3 @@ int main() {
 ugefiywegifygue
 ufgir7g uhriufhgvub
  krhbgj ,k jub vkjbihn dvgihkfvb vkudgvkrjbgkuydrvge
-gvbkjn gjugdb vhjoijn hvgr487fiwij;fqhldcp0ufuq
- 
