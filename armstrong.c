@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     int a,b,n;int x=0;
     printf("Enter the number and the no of digits\n");
