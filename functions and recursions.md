@@ -2,8 +2,8 @@
 
 ****Functions****
 Calling a *function* is like calling a couple of statements whose executions are to be done at once.
-*Eg Program:*
-***code***:ugygug 
+*Eg Program*
+***code***:
 #include <stdio.h>
 #include <math.h>
 #define pi 3.14
