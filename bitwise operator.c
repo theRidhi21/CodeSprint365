@@ -7,6 +7,3 @@ int main() {
       printf("%d",c);
     return 0;
 } 
-kmkm;
-mkklml
-kmkm;l
