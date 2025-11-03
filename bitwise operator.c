@@ -10,7 +10,4 @@ int main() {
 kmkm;
 mkklml
 kmkm;l
-m.km.
-      ,mll,
-      ,l,l,
-      
+m.km. 
