@@ -33,3 +33,7 @@ else{
     printf("Invalid\n");
     return 0;
 }
+gbkuh
+ujhi
+bkujb
+bkub
