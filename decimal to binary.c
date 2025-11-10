@@ -8,6 +8,6 @@ void main(){
         int y= pow(10,i);
         b= b+ (x*y);
         a=a/2;
-    }vhjguj 
+    }
     printf("%d \n",b);
 } 
