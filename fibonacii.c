@@ -2,7 +2,7 @@
 
 int fibonacii(int n);
 int main() { int n;
-printf("enter a positive value of n \n");
+printf("enter a positive value of n \n"); 
 scanf("%d",&n);
 fibonacii(n);
     return 0;
