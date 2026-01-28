@@ -7,4 +7,5 @@ int main()
 
 #include<stdio.h>
 void main(){
-  printf("
+  printf("Welcome to C Programming!");
+}
