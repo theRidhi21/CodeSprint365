@@ -9,5 +9,5 @@ void main(){
         int y= pow(2,i);
         b=b+(x*y);
     }
-    printf("%d \n",b);
+    printf("%d \n",b); 
 }
