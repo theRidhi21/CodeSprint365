@@ -19,7 +19,7 @@ class Solution {
        } 
     }
 }
-## or ##
+OR
     class Solution {
     public boolean isPalindrome(int x) {
        int i,rev=0,t=x;
