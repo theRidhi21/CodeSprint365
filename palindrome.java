@@ -19,8 +19,10 @@ class Solution {
        } 
     }
 }
-OR
-    class Solution {
+
+(OR)
+    
+class Solution {
     public boolean isPalindrome(int x) {
        int i,rev=0,t=x;
        while(t>0){
