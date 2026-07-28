@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public void moveZeroes(int[] nums) {
         int l=nums.length;
         for(int i=0;i<l;i++){
